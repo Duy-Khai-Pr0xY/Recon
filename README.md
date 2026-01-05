@@ -15,5 +15,5 @@
 #### Technology stack, Dỉrectories Scan, Paramester Scan
 # Technology stack
 #### wappalyzer 
-# Dỉrectories Scan
+# Directories Scan
 #### ffuf -w common.txt -u http://hostname/FUZZ -fc 302
