@@ -1,0 +1,10 @@
+Account đăng nhập docker
+
+Username: root
+
+Password: recon_cbjslab
+
+Bạn có thể dùng Docker để nhảy vào terminal, hoặc SSH vào với port 22222
+
+ssh root@localhost -p 22222
+Sau đó điền password recon_cbjslab
