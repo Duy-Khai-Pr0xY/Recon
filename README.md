@@ -11,3 +11,9 @@
 #### Có thể thấy được Ip của domain đấy (có thể chung dải mạng) nslook up (hostname)
 # Ports/Service những dịch vụ đang chạy trên server
 #### namp,rustscan,metabigor 
+# Nếu service là web thì phải pentest
+#### Technology stack, Dỉrectories Scan, Paramester Scan
+# Technology stack
+#### wappalyzer 
+# Dỉrectories Scan
+#### ffuf -w common.txt -u http://hostname/FUZZ -fc 302
