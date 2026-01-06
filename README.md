@@ -26,3 +26,4 @@
 #### arjun -u (hostname)
 # Tip and tricks
 #### Nếu bị lỗi ở 1 chỗ rất có khả năng bị ở những chỗ còn lại 
+#### có SSH burte force login, check version
